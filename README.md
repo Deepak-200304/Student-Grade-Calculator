@@ -28,7 +28,9 @@ The project focuses on building core programming skills such as:
 
 # Code Structure
 1.Input Section
+
   -Ask for Student name
+  
   -Ask for marks(0-100)
 
 2.Validation using while loop
@@ -46,7 +48,9 @@ The project focuses on building core programming skills such as:
 3.Includes input validation (only 0–100 allowed)
 
 4.Uses functions for clean structure:
+
   -calculate_grade(marks)
+  
   -get_valid_marks()
 
 5.Displays encouraging messages for each grade
@@ -54,6 +58,7 @@ The project focuses on building core programming skills such as:
 
 # Grading Logic
 Marks Range -------------- Grade
+
 90 – 100    --------------  A  
 80 – 89     --------------  B  
 70 – 79     --------------  C  
