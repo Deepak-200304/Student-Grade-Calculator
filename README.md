@@ -27,17 +27,13 @@ The project focuses on building core programming skills such as:
 
 
 # Code Structure
-1.Input Section
+1.grade_calculator.py → Main Python program
 
-   -Ask for Student name
-  
-   -Ask for marks(0-100)
+2.README.md → Project documentation
 
-2.Validation using while loop
+3.test_cases.txt → Storing sample input and expected output
 
-3.Function for grading
-
-4.Main program flow
+4.screenshot.png → Program output screenshot
 
 
 # Technical Details
