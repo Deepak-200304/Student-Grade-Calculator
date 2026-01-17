@@ -1,0 +1,19 @@
+# Sample data
+Name: Deepak Tyagi
+Marks: 85
+Expected Grade: B
+Expected Message: Very Good! Keep it up!
+
+Name: Rahul Sharma
+Marks: 45
+Expected Grade: F
+Expected Message: Don’t give up! Every failure is a step to success.
+
+Name: Ananya Mittal
+Marks: 92
+Expected Grade: A
+Expected Message: Outstanding performance! Keep shining!
+
+Name: Deepak Tyagi
+Marks: 112
+Expected Message: Invalid input! Marks must be between 0 and 100.
